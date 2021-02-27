@@ -1,8 +1,8 @@
 # General configuration
-baseurl: "/openra-web" # the subpath of your site, e.g. /blog
+baseurl: "/openra.github.io" # the subpath of your site, e.g. /blog
 url: "https://pchote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OpenRA
-github_username:  OpenRA
+github_username: OpenRA
 permalink: /:categories/:title/index.html
 
 github_release_ids:
