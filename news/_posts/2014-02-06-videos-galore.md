@@ -14,14 +14,14 @@ permalink: "/news/videos-galore/"
 
 <hr />
 
-<p>Additional gameplay videos by <a href="http://www.youtube.com/user/BaronVonGamez">BaronVonGamez</a> and <a href="http://www.youtube.com/user/KrebsCOHO">Krebs</a> show off more of our Red Alert gameplay.</p>
+<p>Additional gameplay videos by <a href="https://www.youtube.com/user/BaronVonGamez">BaronVonGamez</a> and <a href="https://www.youtube.com/user/KrebsCOHO">Krebs</a> show off more of our Red Alert gameplay.</p>
 
 <lite-youtube videoid="enZy7-BCtw0"></lite-youtube>
 <lite-youtube videoid="TGrmDYzRlhA"></lite-youtube>
 
 <hr />
 
-<p><a href="http://www.youtube.com/user/RiderRockon">RiderRockon</a> is doing a great job commentating some of our Tiberium Dawn gameplay.</p>
+<p><a href="https://www.youtube.com/user/RiderRockon">RiderRockon</a> is doing a great job commentating some of our Tiberium Dawn gameplay.</p>
 
 <lite-youtube videoid="vif1Bn2lEO8"></lite-youtube>
 <lite-youtube videoid="2naISjNSo7Y"></lite-youtube>
@@ -32,4 +32,4 @@ permalink: "/news/videos-galore/"
 <div style="text-align:center">
 <img src="{{ '/images/news/20140207-players.png' | relative_url }}" width="640" alt="Player count" /></p>
 </div>
-<p>The surge of new players can be best seen in our <a href="http://openra.ipdx.ru/graphs.html">live player graphs</a>. We're keeping an eye on the community and Youtube response, and will keep this article updated. Time to Rock'n'roll!</p>
+<p>The surge of new players can be best seen in our <a href="{{ '/players' | relative_url }}">live player graphs</a>. We're keeping an eye on the community and Youtube response, and will keep this article updated. Time to Rock'n'roll!</p>
