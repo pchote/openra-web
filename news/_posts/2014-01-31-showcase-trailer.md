@@ -7,22 +7,25 @@ disqus_id: "showcase-trailer"
 permalink: "/news/showcase-trailer/"
 ---
 
-<p>OpenRA has received a lot of attention over the last few days, thanks to two great promotional videos.</p>
+OpenRA has received a lot of attention over the last few days, thanks to two great promotional videos.
 
-<p>Community member SoScared put together a fantastic promotional trailer:</p>
+Community member SoScared put together a fantastic promotional trailer:
 
 <lite-youtube videoid="ueosN-JFqG0"></lite-youtube>
 
 <hr />
 
-<p>Prominent streamer <a href="https://twitter.com/totalbiscuit">TotalBiscuit</a> gave us a glowing first-impression in his video preview / review:</p>
+Prominent streamer <a href="https://twitter.com/totalbiscuit">TotalBiscuit</a> gave us a glowing first-impression in his video preview / review:
 
 <lite-youtube videoid="z1-VwE1byrY"></lite-youtube>
 
-<p>One minor issue we would like to mention is that our Dune 2000 recreation is still a work in progress!<br />
-Concrete, sand worms, the starport, and other iconic features will be added in upcoming releases.</p>
+One minor issue we would like to mention is that our Dune 2000 recreation is still a work in progress!
+Concrete, sand worms, the starport, and other iconic features will be added in upcoming releases.
 
 <hr />
 
-<p><img src="{{ '/images/news/20140204-players.png' | relative_url }}" width="100%" alt="Player count" /></p>
-<p>Our online player count is currently at an all time high, which makes this an excellent time to find a match online. Keep 'em coming!</p>
+<div style="text-align:center">
+<img src="{{ '/images/news/20140204-players.png' | relative_url }}" width="640" alt="Player count" />
+</div>
+
+Our online player count is currently at an all time high, which makes this an excellent time to find a match online. Keep 'em coming!
