@@ -1,6 +1,6 @@
 # General configuration
-url: "https://www.openra.net"
-baseurl: "/"
+url: "https://pchote.github.io"
+baseurl: "/openra.github.io"
 twitter_username: OpenRA
 github_username: OpenRA
 permalink: /:categories/:title/index.html
